@@ -2,7 +2,7 @@
 name: Function
 version: 1.0.0
 summary: API in Azure Functions with CosmosDB
-description: Deploys a Function App in NodeJS as an API connected to CosmosDB
+description: Deploys a Function App
 runner: ARM
 templatePath: main.json
 
